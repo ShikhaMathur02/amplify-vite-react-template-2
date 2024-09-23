@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "Petstore",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-petstore-staging-5e29b-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/dc5466b546328073abcf9484a291faa2e147815a"
+}
